@@ -4,13 +4,13 @@
     <groupId>eu.rekisoft.android</groupId>
     <artifactId>uiworker</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>UiWorker</name>
     <url>https://github.com/rekire/UiWorker/</url>
     <description>Helper class for simple changing UI elements.</description>
     <scm>
         <url>git@github.com:rekire/UiWorker.git</url>
-        <tag>1.0.0</tag>
+        <tag>1.0.1</tag>
         <connection>https://help.github.com/articles/which-remote-url-should-i-use</connection>
     </scm>
     <developers>

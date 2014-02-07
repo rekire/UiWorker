@@ -8,13 +8,13 @@ executed immediately, if not the job will be executed on the UI thread delayed.
 
 Edit your `build.gradle` and add this line to your dependencies:
 
-    compile 'eu.rekisoft.android:uiworker:1.0.+'
+    compile 'eu.rekisoft.android:uiworker:1.0.1'
 
 So it should look like this:
 
     dependencies {
         // other dependencies comes here
-        compile 'eu.rekisoft.android:uiworker:1.0.+'
+        compile 'eu.rekisoft.android:uiworker:1.0.1'
     }
 
 ##Example
